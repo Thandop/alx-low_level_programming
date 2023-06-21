@@ -23,8 +23,8 @@ int main(void)
 	{
 		printf("%d is %s\n", n, "negative");
 	}
-	else 
-	{ 
+	else
+	{
 		printf("%d is %s\n", n, "zero");
 	}
 	return (0);
